@@ -1,0 +1,24 @@
+# --- KICAD ---
+*.bak
+*-bak
+*.bck
+*~
+_autosave-*
+*.tmp
+*.lock
+*.net
+*.dcm
+*.kicad_prl
+fp-info-cache
+Desk_to_door_communication_DOOR_gerber/
+Desk_to_door_communication_DOOR-backups/
+Desk_to_door_communication_gerber/
+Desk_to_door_communication-backups/
+
+# --- ARDUINO ---
+# Ignoruj foldery budowania (kompilacji)
+build/
+*.elf
+*.hex
+*.bin
+*.map
