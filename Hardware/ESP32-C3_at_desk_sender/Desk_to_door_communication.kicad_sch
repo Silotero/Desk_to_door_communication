@@ -1,0 +1,56 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "55cbe703-c416-4c20-af3c-08cc17c769fe")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 35.56 34.29)
+		(size 74.93 55.88)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "1683e0a3-ff77-4476-96d0-71b25f31e86b")
+		(property "Sheetname" "Desk"
+			(at 35.56 33.5784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Desk.kicad_sch"
+			(at 35.56 90.7546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Desk_to_door_communication"
+				(path "/55cbe703-c416-4c20-af3c-08cc17c769fe"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
